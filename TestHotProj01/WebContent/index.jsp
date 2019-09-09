@@ -15,7 +15,7 @@
 <body>
 	<ul>
 		<li>Git첫번째 항목</li>
-		<li></li>
+		<li>두번째 항목추가</li>
 		<li></li>
 	</ul>
 </body>
